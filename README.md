@@ -12,6 +12,6 @@
   ##
  
 <div> 
- <a href="https://salomenu.online" target="_blank"><img src="https://www.salomenu.online/images/logo_round.png" alt="HTML5 Icon" width="40" height="30"></a>
+ <a href="https://salomenu.online" target="_blank"><img src="https://www.salomenu.online/images/cliente.png" alt="HTML5 Icon" width="40" height="30"></a>
  <a href="https://discord.gg/fmVeb3ZkPy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
