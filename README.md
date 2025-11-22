@@ -15,5 +15,5 @@ Nunca Precisei de executores para usar explorar o roblox!
  
 <div> 
  <a href="https://salomenu.online" target="_blank"><img src="https://www.salomenu.online/images/cliente.png" alt="HTML5 Icon" width="40" height="30"></a>
- <a href="https://discord.gg/fmVeb3ZkPy" target="_blank"><img src="https://www.salomenu.online/images/discord.svg" alt="Discord" style="width:45px;filter:invert(1) brightness(2);"></a>
+ <a href="https://discord.gg/fmVeb3ZkPy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
