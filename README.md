@@ -1,4 +1,4 @@
-## Sou desenvolvedor há 4 anos e comecei minha jornada programando em Luau, dentro da plataforma Roblox. Nesse período, trabalhei na criação de jogos e no desenvolvimento de ferramentas personalizadas para a comunidade. Entre esses projetos, destaquei-me pela criação do SaloMenu, atualmente reconhecido como um dos maiores executores brasileiros no cenário de Roblox. Minha evolução veio da prática constante, experimentação e dedicação em aprimorar cada projeto que construí ao longo do tempo.
+## Sou desenvolvedor há 4 anos e iniciei minha jornada programando em Luau, dentro da plataforma Roblox. Desde então, atuei na criação de jogos e no desenvolvimento de ferramentas personalizadas em outras linguagens. Entre esses projetos, destaquei-me pela criação do SaloMenu, atualmente reconhecido como um dos maiores executores brasileiros no cenário de Roblox. Minha evolução veio da prática constante, da experimentação e da dedicação em aprimorar cada projeto que desenvolvi ao longo desse tempo.
 
 [![Salomão GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloma0)](https://github.com/anuraghazra/github-readme-stats)
 
