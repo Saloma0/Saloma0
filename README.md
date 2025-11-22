@@ -12,6 +12,6 @@
   ##
  
 <div> 
- <a href="https://salomenu.online" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" target="_blank"></a> 
- <a href="https://discord.gg/fmVeb3ZkPy" height="30" width="40" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://salomenu.online" height="30" width="40" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" target="_blank"></a> 
+ <a href="https://discord.gg/fmVeb3ZkPy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
