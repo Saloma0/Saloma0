@@ -2,7 +2,7 @@
 
 Nunca Precisei de executores para explorar no roblox!
 
-[![Salomão GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloma0)](https://github.com/anuraghazra/github-readme-stats)
+![Salomão GitHub stats](https://github-readme-stats.vercel.app/api?username=Saloma0&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Salo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
