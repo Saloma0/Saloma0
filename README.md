@@ -1,4 +1,4 @@
-# Olá, eu sou o Saloma0! 👋
+# Olá, eu sou o Salomão! 👋
 
 ## 🚀 Sobre Mim
 
@@ -12,7 +12,7 @@ Minha evolução é fruto da prática constante, da experimentação e da dedica
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Minha stack de ferramentas e linguagens com as quais trabalho ou já desenvolvi projetos:
+Minha biblioteca de ferramentas e linguagens com as quais trabalho ou já desenvolvi projetos:
 
 <div style="display: inline-block;">
   <img align="center" alt="C#" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
@@ -25,7 +25,7 @@ Minha stack de ferramentas e linguagens com as quais trabalho ou já desenvolvi 
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Site e Discord
 
 Fique por dentro dos meus projetos ou entre em contato através dos links abaixo:
 
