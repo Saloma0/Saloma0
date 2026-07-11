@@ -6,7 +6,7 @@ Sou desenvolvedor há 5 anos e iniciei minha jornada programando em **Luau** den
 
 Minha evolução é fruto da prática constante, da experimentação e da dedicação em extrair o máximo de performance em cada projeto que desenvolvo.
 
-> 💡 *Nunca precisei de executores para explorar o desenvolvimento no Roblox! Minha base vem do código puro e da engenharia reversa/otimização por conta própria.*
+> 💡 *Nunca precisei de executores para explorar no Roblox!*
 
 ---
 
