@@ -6,7 +6,16 @@ Sou desenvolvedor há 5 anos e iniciei minha jornada programando em **Luau** den
 
 Minha evolução é fruto da prática constante, da experimentação e da dedicação em extrair o máximo de performance em cada projeto que desenvolvo.
 
-> 💡 Nunca precisei de executores para explorar o desenvolvimento no Roblox! Minha base vem do código puro e da engenharia reversa/otimização por conta própria.*
+> 💡 *Nunca precisei de executores para explorar o desenvolvimento no Roblox! Minha base vem do código puro e da engenharia reversa/otimização por conta própria.*
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Saloma0&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Saloma0" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saloma0&layout=compact&theme=radial&langs_count=6" alt="Linguagens mais usadas por Saloma0" />
+</p>
 
 ---
 
