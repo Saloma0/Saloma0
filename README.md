@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor há 5 anos e iniciei minha jornada programando em **Luau** dentro da plataforma Roblox. Desde então, foquei na criação de jogos e no desenvolvimento de ferramentas personalizadas, expandindo meu ecossistema para outras linguagens de programação.
+Sou desenvolvedor há 5 anos e iniciei minha jornada programando em **Luau** dentro da plataforma Roblox. Desde então, foquei na criação de jogos e no desenvolvimento de ferramentas personalizadas, expandindo meu ecossistema para outras linguagens de programação. 
 
 Minha evolução é fruto da prática constante, da experimentação e da dedicação em extrair o máximo de performance em cada projeto que desenvolvo.
 
@@ -13,8 +13,8 @@ Minha evolução é fruto da prática constante, da experimentação e da dedica
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saloma0&theme=2077" alt="Estatísticas de Saloma0" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Saloma0&theme=dark" alt="Dias seguidos de commits de Saloma0" />
+  <img width="49%" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saloma0&theme=2077" alt="Estatísticas de Saloma0" />
+  <img width="49%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Saloma0&theme=dark" alt="Dias seguidos de commits de Saloma0" />
 </p>
 
 ---
@@ -43,11 +43,6 @@ Fique por dentro dos meus projetos ou entre em contato através dos links abaixo
 <a href="https://salomenu.online" target="_blank">
   <img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge&logoColor=white" alt="Website">
 </a>
-
 <a href="https://discord.gg/fmVeb3ZkPy" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-💬-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Servidor do Discord">
-</a>
-
-<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
-  <img src="https://img.shields.io/badge/Meu%20Perfil-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Perfil do Discord">
+  <img src="https://img.shields.io/badge/Discord-💬-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
