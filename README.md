@@ -18,11 +18,6 @@ Minha evolução é fruto da prática constante, da experimentação e da dedica
     src="https://github-readme-streak-stats.herokuapp.com/?user=Saloma0&theme=dark"
     alt="Dias seguidos de commits de Saloma0"
   />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Saloma0&show_icons=true&theme=dark&hide_border=true"
-    alt="Estatísticas de Saloma0"
-  />
 </p>
 
 ---
