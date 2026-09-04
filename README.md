@@ -36,8 +36,6 @@ Minha biblioteca de ferramentas e linguagens com as quais trabalho ou já desenv
   <img align="center" alt="C++" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Luau/Lua" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
-  <img align="center" alt="HTML5" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Portugol" height="36" width="46" src="https://raw.githubusercontent.com/dgadelha/Portugol-Webstudio/main/packages/ide/src/assets/lightbulb.svg">
 </p>
 
 ---
